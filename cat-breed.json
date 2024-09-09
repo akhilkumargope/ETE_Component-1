@@ -1,0 +1,57 @@
+
+[
+    {
+      "id": "aege",
+      "name": "Aegean",
+      "temperament": "Affectionate, Social, Intelligent, Playful, Active",
+      "origin": "Greece",
+      "description": "Native to the Greek islands known as the Cyclades in the Aegean Sea, these are natural cats, meaning they developed without humans getting involved in their breeding. As a breed, Aegean Cats are rare, although they are numerous on their home islands. They are generally friendly toward people and can be excellent cats for families with children.",
+      "life_span": "9-12",
+      "url": "https://cdn2.thecatapi.com/images/ozEvzdVM-.jpg"
+    },
+    {
+      "id": "abys",
+      "name": "Abyssinian",
+      "temperament": "Active, Playful, Curious, Intelligent, Energetic",
+      "origin": "Ethiopia",
+      "description": "One of the oldest breeds of domesticated cats, Abyssinians are highly energetic and love to play. They are highly intelligent and active, and require plenty of stimulation and exercise to prevent boredom.",
+      "life_span": "12-15",
+      "url": "https://cdn2.thecatapi.com/images/ozEvzdVM-.jpg"
+    },
+    {
+      "id": "beng",
+      "name": "Bengal",
+      "temperament": "Energetic, Playful, Curious, Intelligent, Affectionate",
+      "origin": "USA",
+      "description": "Bengal cats are a hybrid breed, created by crossing domestic cats with the Asian leopard cat. They are highly energetic and playful, and require plenty of stimulation and exercise to prevent boredom.",
+      "life_span": "12-16",
+      "url": "https://cdn2.thecatapi.com/images/ozEvzdVM-.jpg"
+    },
+    {
+      "id": "birman",
+      "name": "Birman",
+      "temperament": "Gentle, Playful, Curious, Intelligent, Affectionate",
+      "origin": "France",
+      "description": "The Birman breed is known for its striking white 'gloves' on its paws. They are highly intelligent and active, and require plenty of stimulation and exercise to prevent boredom.",
+      "life_span": "12-15",
+      "url": "https://cdn2.thecatapi.com/images/ozEvzdVM-.jpg"
+    },
+    {
+      "id": "bomb",
+      "name": "Bombay",
+      "temperament": "Playful, Curious, Intelligent, Affectionate, Energetic",
+      "origin": "USA",
+      "description": "The Bombay breed is known for its distinctive physical appearance, with a black coat and golden eyes. They are highly intelligent and active, and require plenty of stimulation and exercise to prevent boredom.",
+      "life_span": "12-15",
+      "url": "https://cdn2.thecatapi.com/images/ozEvzdVM-.jpg"
+    },
+    {
+      "id": "bri",
+      "name": "British Shorthair",
+      "temperament": "Easy-going, Playful, Curious, Intelligent, Affectionate",
+      "origin": "United Kingdom",
+      "description": "The British Shorthair breed is known for its sturdy build and short, easy-to-maintain coat. They are highly intelligent and active, and require plenty of stimulation and exercise to prevent boredom.",
+      "life_span": "12-17",
+      "url": "https://cdn2.thecatapi.com/images/ozEvzdVM-.jpg"
+    }
+  ]
